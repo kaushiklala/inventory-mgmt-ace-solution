@@ -8,7 +8,7 @@
       "name" : "MIT"
     }
   },
-  "host" : "inventory-management-svc-solution-dev.kl-devops01-6ccd7f378ae819553d37d5f2ee142bd6-0000.eu-gb.containers.appdomain.cloud",
+  "host" : "INVENTORY_MANAGEMENT_SVC_BASE_URL",
   "basePath" : "/api",
   "tags" : [ {
     "name" : "stock-item-controller",
